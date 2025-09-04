@@ -34,4 +34,4 @@ Atuar como profissional na aréa da tecnologia como desenvolvedor de sistemas.
 ## 🎯Metas
 - Melhorar meu inglês
 - Terminar minhas Formações Academicas
-- Trabalhar Fora
+- Trabalhar Fora do Pais
