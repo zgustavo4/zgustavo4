@@ -16,6 +16,7 @@ Atuar como profissional na aréa da tecnologia como desenvolvedor de sistemas.
 ## 📚Cursos Complementares
 - Etíca na Inteligencia Artificial
 - Excel Basico
+- Certificado_Por dentro da Segurança Cibernética
 - Fundamentos do Python 1
 - Implantação de Serviços em nuvem Microsoft AZ-900
 - Soluções Integradas Com IoT
