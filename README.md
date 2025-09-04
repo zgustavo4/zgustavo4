@@ -2,6 +2,7 @@
 ## Meus dados:
 - Nome: Gustavo Alves da Silva
 - Idade: 16
+- E-Mail: gustavoalves20silva@gmail.com
 - Cidade: Alvares Machado
 - GitHub: https://github.com/zgustavo4
 ---
