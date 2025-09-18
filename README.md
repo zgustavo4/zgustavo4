@@ -3,7 +3,8 @@
 - Nome: Gustavo Alves da Silva
 - Idade: 16
 - E-Mail: gustavoalves20silva@gmail.com
-- Cidade: Alvares Machado
+- Cidade: Alvares Machado SP
+- GitHub: 
 ---
 ## 🎯Objetivo Profissional
 Atuar como profissional na aréa da tecnologia como desenvolvedor de sistemas.
