@@ -37,5 +37,5 @@ Atuar como profissional na aréa da tecnologia como desenvolvedor de sistemas.
 - Terminar minhas Formações Academicas
 - Trabalhar Fora do Pais
 ## 📋Meus Projetos
-- file:///U:/Users/48889689854/Downloads/Educaverse.pdf
-- file:///U:/Users/48889689854/Downloads/CiberGuardi%C3%B5es%20S.A..pdf
+- https://drive.google.com/file/d/1teVtY_23ZNLcB_RQJ8bllCqtRWqVPuYQ/view?usp=sharing
+- https://drive.google.com/file/d/1vwo_9v8Gjqrc7NMoVpa2p6h8heQvQSOT/view?usp=sharing
