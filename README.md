@@ -39,4 +39,4 @@ Atuar como profissional na aréa da tecnologia como desenvolvedor de sistemas.
 ## 📋Meus Projetos
 - https://drive.google.com/file/d/1teVtY_23ZNLcB_RQJ8bllCqtRWqVPuYQ/view?usp=sharing
 - https://drive.google.com/file/d/1vwo_9v8Gjqrc7NMoVpa2p6h8heQvQSOT/view?usp=sharing
-*Educaverse é uma plataforma educacional que combina aprendizado com experiências imersivas no metaverso.
+Educaverse é uma plataforma educacional que combina aprendizado com experiências imersivas no metaverso.A proposta central é criar um ambiente digital colaborativo, acessível e inovador para transformar a educação por meio da tecnologia.
