@@ -4,7 +4,6 @@
 - Idade: 16
 - E-Mail: gustavoalves20silva@gmail.com
 - Cidade: Alvares Machado
-- GitHub: https://github.com/zgustavo4
 ---
 ## 🎯Objetivo Profissional
 Atuar como profissional na aréa da tecnologia como desenvolvedor de sistemas.
